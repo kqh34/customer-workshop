@@ -29,6 +29,8 @@ This workshop uses a **scenario-based approach** where you'll tackle real develo
 | [UC7](./docs/workshop-guide.md#use-case-7-i-inherited-legacy-code) | "Understand & refactor old code" | 20 min | Ask Mode, Inline Chat, Agent Refactoring |
 | [UC8](./docs/workshop-guide.md#use-case-8-i-need-end-to-end-tests) | "Add browser testing" | 15 min | MCP Playwright |
 | [UC9](./docs/workshop-guide.md#use-case-9-i-want-to-build-from-specs-not-vibes) | "Build with specifications, not guesswork" | 30 min | Spec Kit, Spec-Driven Development |
+| [UC10](./docs/workshop-guide.md) | "Create an API endpont via agent skill" | 30 min | Agent Skills |
+| [Bonus](./docs/workshop-guide.md#bonus-create-your-own-agent-skill) | "Create a custom agent skill" | 30 min | Agent Skills |
 | [Wrap](./docs/workshop-guide.md#-wrap-up) | Reflection & next steps | 10 min | - |
 
 ### What You'll Accomplish
